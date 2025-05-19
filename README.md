@@ -9,10 +9,7 @@
 <h3 style="color:#FFA500;">🔭 I’m currently working on:</h3>
 
 <ul>
-  <li>🌾 <b>Agropredict</b> - An AI-driven crop disease detection system.</li>
-  <li>📊 <b>IoT-Based Industrial Safety and Security System</b>.</li>
-  <li>🌐 <b>Multi-platform Navigation System for Railway Stations</b>.</li>
-  <li>📱 <b>Real-time Voice-to-Text and Text-to-Voice Mobile App</b> for Indian regional languages.</li>
+  <li>📊 <b>Startup-genius: Startups management and CRM System</b>.</li>
   <li>📖 <b>LessonCraft</b> - An AI-powered platform for automating lesson plan creation.</li>
 </ul>
 
@@ -20,4 +17,3 @@
 
 <p>💡 I enjoy solving complex problems and participating in hackathons.</p>
 
-<p>📫 Reach me at: <a href="https://www.linkedin.com/in/deepak-a-87964a25b/" style="color:#0077B5;">LinkedIn</a> | <a href="mailto:your-email@gmail.com" style="color:#D44638;">Email</a></p>
