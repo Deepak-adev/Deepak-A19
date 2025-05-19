@@ -2,9 +2,9 @@
 
 <p>I'm a passionate Computer Science and Business Systems (CSBS) student at <b>R.M.K. Engineering College</b> with a strong focus on technology, AI, and web development. I love building innovative solutions to real-world problems and have experience in various domains, including computer vision, machine learning, web development, and mobile applications.</p>
 
-<h2 style="color:#50C878;">🚀 About Me</h2>
+<h2 style="color:#50C878;">About Me</h2>
 
-<h3 style="color:#FFA500;">🔭 I’m currently working on:</h3>
+<h3 style="color:#FFA500;"> I’m currently working on:</h3>
 
 <ul>
   <li>📊 <b>Startup-genius: Startups management and CRM System</b>.</li>
